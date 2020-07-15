@@ -6,4 +6,4 @@
 
 웹에서 내용을 보여주는 형식으로, 틈틈히 읽기 좋습니다. 물론 인쇄가 가능한 파일도 제공하고 있습니다.
 
-[인쇄가 가능한 파일은 여기에서 다운로드가 가능합니다.](https://github.com/FennecFoxGaon/MiddleSchool3MathSummary/raw/master/attachment/%EB%8F%84%EB%8D%95%20%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC.pdf)
+[인쇄가 가능한 파일은 여기에서 다운로드가 가능합니다.](https://github.com/FennecFoxGaon/MiddleSchool3EthicsSummary/raw/master/attachment/%EB%8F%84%EB%8D%95%20%EC%9A%94%EC%A0%90%EC%A0%95%EB%A6%AC.pdf)
